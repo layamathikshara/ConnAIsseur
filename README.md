@@ -21,3 +21,8 @@ The whole exeperience would be like the collector has expressed their tast to an
 - Tweak the images produced by the gan (DALLE) into your own art
 - Provide copyrights for using the art generated with your model (idk why but ok?)
 - Make the model auto mint art
+
+
+To Do:
+> Front end desgin and implementation
+> Solidity for minting
